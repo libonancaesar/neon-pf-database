@@ -1,2 +1,3 @@
 # neon-pf-database
-code for NEON PF database
+## Code for NEON preferential flow database. 
+
