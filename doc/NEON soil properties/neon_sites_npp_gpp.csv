@@ -1,0 +1,48 @@
+Site ID,Domain Name,Domain Number,State,Latitude,Longitude,MAT,MAP,Dominant NLCD Classes,Ecotype,Elevation,NPP,GPP
+KONA,Prairie Peninsula,D06,KS,39.11044,-96.61295,12,860,Cultivated Crops,Cropland,340,1.071805556,1.8396
+STER,Central Plains,D10,CO,40.4619,-103.0293,8,370,Cultivated Crops,Cropland,1364,0.653061111,1.028138889
+ABBY,Pacific Northwest,D16,WA,45.76243,-122.33033,8,2530,"Evergreen Forest, Grassland/Herbaceous, Shrub/Shrub",Forest,363,1.040376923,1.803769231
+BART,Northeast,D01,NH,44.06388,-71.28731,8,1056,"Deciduous Forest, Evergreen Forest, Mixed Forest",Forest,232,0.976172222,1.694511111
+BONA,Taiga,D19,AK,65.15401,-147.50258,-1,399,"Deciduous Forest, Evergreen Forest, Mixed Forest, Woody Wetlands",Forest,263,NA,NA
+DEJU,Taiga,D19,AK,63.88112,-145.75136,-2,300,"Evergreen Forest, Shrub/Shrub, Woody Wetlands",Forest,529,NA,NA
+DELA,Ozarks Complex,D08,AL,32.54172,-87.80389,18,1290,"Evergreen Forest, Woody Wetlands",Forest,22,NA,NA
+GRSM,Appalachians & Cumberland Plateau,D07,TN,35.68896,-83.50195,13,1396,"Deciduous Forest, Evergreen Forest",Forest,579,1.144955556,2.157133333
+GUAN,Atlantic Neotropical,D04,PR,17.96955,-66.8687,25,1168,Evergreen Forest,Forest,143,NA,NA
+MLBS,Appalachians & Cumberland Plateau,D07,VA,37.37828,-80.52484,13,1030,Deciduous Forest,Forest,1126,1.142172222,1.958716667
+PUUM,Pacific Tropical,D20,HI,19.55309,-155.31731,13,2685,Evergreen Forest,Forest,1685,NA,NA
+RMNP,Central Plains,D10,CO,40.27591,-105.54592,4,520,Evergreen Forest,Forest,2743,0.534266667,0.89335
+WREF,Pacific Northwest,D16,WA,45.82049,-121.95191,8,2530,Evergreen Forest,Forest,407,0.899055556,1.883005556
+CPER,Central Plains,D10,CO,40.81553,-104.7456,8,370,Grassland/Herbaceous,Grassland,1648,0.356088889,0.581666667
+DCFS,Northern Plains,D09,ND,47.16165,-99.10656,5,490,Grassland/Herbaceous,Grassland,559,0.720472222,1.234183333
+NOGP,Northern Plains,D09,ND,46.76972,-100.91535,5,400,Grassland/Herbaceous,Grassland,578,NA,NA
+OAES,Southern Plains,D11,OK,35.41059,-99.05879,15,670,"Grassland/Herbaceous, Shrub/Shrub",Grassland,516,0.580016667,1.062555556
+WOOD,Northern Plains,D09,ND,47.12823,-99.24136,5,490,"Emergent Herbaceous Wetlands, Grassland/Herbaceous",Grassland,579,0.644366667,1.083711111
+BLAN,Mid-Atlantic,D02,VA,39.06026,-78.07164,12,950,"Deciduous Forest, Pasture/Hay",Mixed Forest,183,0.912905556,1.8053
+CLBJ,Southern Plains,D11,TX,33.40123,-97.57,18,840,"Deciduous Forest, Grassland/Herbaceous",Mixed Forest,259,0.758005556,1.632166667
+HARV,Northeast,D01,MA,42.5369,-72.17266,8,967,"Deciduous Forest, Evergreen Forest, Mixed Forest, Woody Wetlands",Mixed Forest,351,1.024433333,1.875638889
+HEAL,Taiga,D19,AK,63.87569,-149.21334,-4,320,"Dwarf Scrub, Evergreen Forest, Shrub/Shrub",Mixed Forest,705,NA,NA
+JERC,Southeast,D03,GA,31.19484,-84.46861,19.5,1307,"Cultivated Crops, Deciduous Forest, Evergreen Forest, Mixed Forest",Mixed Forest,44,1.017472222,2.22085
+KONZ,Prairie Peninsula,D06,KS,39.10077,-96.56309,12,860,"Deciduous Forest, Grassland/Herbaceous",Mixed Forest,381,0.749694444,1.488288889
+LENO,Ozarks Complex,D08,AL,31.85388,-88.16122,18,1429,"Deciduous Forest, Woody Wetlands",Mixed Forest,20,NA,NA
+MOAB,Southern Rockies & Colorado Plateau,D13,UT,38.24833,-109.38827,11,200,"Evergreen Forest, Shrub/Shrub",Mixed Forest,1767,0.07415,0.18495
+NIWO,Southern Rockies & Colorado Plateau,D13,CO,40.05425,-105.58237,0,758,"Evergreen Forest, Grassland/Herbaceous",Mixed Forest,3513,0.303144444,0.44495
+ONAQ,Great Basin,D15,UT,40.17759,-112.45244,9,388,"Evergreen Forest, Shrub/Shrub",Mixed Forest,1685,0.076077778,0.195366667
+OSBS,Southeast,D03,FL,29.68927,-81.99343,20,1290,"Emergent Herbaceous Wetlands, Evergreen Forest, Woody Wetlands",Mixed Forest,45,0.278338889,1.215111111
+SCBI,Mid-Atlantic,D02,VA,38.89292,-78.1395,13,1054,"Deciduous Forest, Evergreen Forest, Pasture/Hay",Mixed Forest,361,0.959,2.000633333
+SERC,Mid-Atlantic,D02,MD,38.89008,-76.56001,14,1107,"Cultivated Crops, Deciduous Forest",Mixed Forest,15,1.095277778,2.204116667
+SJER,Pacific Southwest,D17,CA,37.10878,-119.73228,17,270,"Evergreen Forest, Grassland/Herbaceous, Shrub/Shrub",Mixed Forest,368,0.729016667,1.330672222
+SOAP,Pacific Southwest,D17,CA,37.03337,-119.26219,10,1246,"Evergreen Forest, Shrub/Shrub",Mixed Forest,1160,0.9117,1.885683333
+STEI,Great Lakes,D05,WI,45.50894,-89.58637,5,782,"Deciduous Forest, Mixed Forest, Woody Wetlands",Mixed Forest,481,0.819883333,1.477983333
+TALL,Ozarks Complex,D08,AL,32.95046,-87.39327,17,1350,"Deciduous Forest, Evergreen Forest, Mixed Forest",Mixed Forest,135,0.674066667,2.142222222
+TEAK,Pacific Southwest,D17,CA,37.00583,-119.00602,7,941,"Evergreen Forest, Shrub/Shrub",Mixed Forest,2147,0.721283333,1.274666667
+TREE,Great Lakes,D05,WI,45.49369,-89.58571,5,782,"Deciduous Forest, Evergreen Forest, Mixed Forest, Woody Wetlands",Mixed Forest,472,0.902394444,1.5805
+UKFS,Prairie Peninsula,D06,KS,39.04043,-95.19215,12,870,"Deciduous Forest, Pasture/Hay",Mixed Forest,335,0.8615,1.8017
+UNDE,Great Lakes,D05,MI,46.23388,-89.53725,3,854,"Deciduous Forest, Mixed Forest, Woody Wetlands",Mixed Forest,518,0.868466667,1.507466667
+YELL,Northern Rockies,D12,WY,44.95348,-110.53914,0,509,"Evergreen Forest, Grassland/Herbaceous, Shrub/Shrub",Mixed Forest,2116,0.207566667,0.465122222
+DSNY,Southeast,D03,FL,28.12504,-81.4362,22,1150,"Pasture/Hay, Woody Wetlands",Mixed Grassland,15,1.033783333,2.110905556
+LAJA,Atlantic Neotropical,D04,PR,18.02125,-67.0769,25,1168,"Cultivated Crops, Grassland/Herbaceous, Pasture/Hay",Mixed Grassland,24,NA,NA
+JORN,Desert Southwest,D14,NM,32.59068,-106.84254,17,173,Shrub/Shrub,Shrubland,1329,0.058405556,0.19925
+SRER,Desert Southwest,D14,AZ,31.91068,-110.83549,20,290,Shrub/Shrub,Shrubland,983,0.0691,0.2376
+TOOL,Tundra,D18,AK,68.66109,-149.37047,-4,331,"Dwarf Scrub, Shrub/Shrub",Shrubland,843,NA,NA
+BARR,Tundra,D18,AK,71.28241,-156.61936,-12,110,Emergent Herbaceous Wetlands,Grassland,6,NA,NA
+ORNL,Appalachians & Cumberland Plateau,D07,TN,35.96412,-84.2826,15,1222,"Deciduous Forest, Evergreen Forest, Pasture/Hay",Mixed Forest,334,1.015755556,2.118227778
